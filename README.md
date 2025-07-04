@@ -1,22 +1,21 @@
-# veelmod-
-𝓥𝓮𝓮𝓵 Mod için gizlilik politikası
+# Privacy Policy
 
-**Son Güncelleme:** 4 Temmuz 2025
+**Last Updated:** July 4, 2025
 
-𝓥𝓮𝓮𝓵 Mod, kullanıcı gizliliğine önem verir. Bu politika, botun veri toplama ve kullanımı hakkında bilgi sağlar.
+𝓥𝓮𝓮𝓵 Mod values user privacy. This policy outlines how the bot handles data collection and usage.
 
-## 1. Toplanan Veriler
-𝓥𝓮𝓮𝓵 Mod hiçbir şekilde kullanıcı verisi **toplamaz, kaydetmez veya saklamaz**.
+## 1. Data Collected
+𝓥𝓮𝓮𝓵 Mod does **not collect, store, or retain** any user data under any circumstances.
 
-Bot, yalnızca komutlara yanıt vermek amacıyla çalışır ve kullanıcı etkileşimleri geçici olarak işlenir. Kalıcı veri saklama yapılmaz.
+The bot only processes user interactions temporarily to respond to commands. No persistent data storage is performed.
 
-## 2. Üçüncü Taraflarla Paylaşım
-Bot tarafından hiçbir kullanıcı verisi toplanmadığı için, herhangi bir veri üçüncü taraflarla **paylaşılmaz**.
+## 2. Third-Party Sharing
+Since no user data is collected, **no data is shared** with any third parties.
 
-## 3. Çocuklara Yönelik Politika
-Bot, 13 yaşından küçük kullanıcıları hedeflemez ve onlara özel veri toplama veya saklama işlemi yapmaz.
+## 3. Children's Privacy
+𝓥𝓮𝓮𝓵 Mod is not directed at users under the age of 13 and does not knowingly collect or store any data from them.
 
-## 4. İletişim
-Herhangi bir soru, sorun veya gizlilikle ilgili talepleriniz için bizimle şu adresten iletişime geçebilirsiniz:
+## 4. Contact
+If you have any questions, concerns, or privacy-related requests, you can contact us at:
 
 📧 **muule.09@gmail.com**
